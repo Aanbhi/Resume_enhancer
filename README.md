@@ -38,8 +38,11 @@ A sleek, modern UI with dark purple gradients and creative design built using St
 
 
 ├── app.py                # Main Streamlit app
+
 ├── analyzer.py           # Resume analysis logic
+
 ├── style.py              # Custom CSS for styling the GUI
+
 ├── README.md             # Project documentation
 
 
