@@ -1,0 +1,61 @@
+Job Title: Software Engineer
+
+Location: New York, NY (Remote Available)
+
+About Us:
+Innovatech Solutions is a leading software company dedicated to creating cutting-edge technology products that empower businesses worldwide. We value creativity, collaboration, and continuous learning.
+
+Job Summary:
+We are seeking a passionate Software Engineer to join our dynamic development team. The ideal candidate will be responsible for designing, developing, and maintaining high-quality software applications, collaborating with cross-functional teams, and contributing to all phases of the software development lifecycle.
+
+Key Responsibilities:
+
+Write clean, scalable, and efficient code using languages such as Java, Python, or C++.
+
+Develop and maintain web applications and APIs.
+
+Collaborate with product managers, designers, and QA engineers to deliver high-quality software.
+
+Participate in code reviews and provide constructive feedback.
+
+Troubleshoot, debug, and optimize application performance.
+
+Stay updated with the latest industry trends and technologies.
+
+Qualifications:
+
+Bachelor’s degree in Computer Science, Engineering, or related field.
+
+2+ years of professional software development experience.
+
+Proficient in at least one programming language (Java, Python, C++, JavaScript).
+
+Experience with RESTful APIs and web frameworks.
+
+Familiarity with version control systems (Git).
+
+Strong problem-solving skills and attention to detail.
+
+Excellent communication and teamwork abilities.
+
+Preferred Skills:
+
+Experience with cloud platforms (AWS, Azure, GCP).
+
+Knowledge of containerization (Docker, Kubernetes).
+
+Understanding of Agile methodologies.
+
+Benefits:
+
+Competitive salary and bonuses.
+
+Flexible working hours and remote work options.
+
+Health insurance and wellness programs.
+
+Professional development opportunities.
+
+How to Apply:
+Submit your resume and cover letter to careers@innovatech.com.
+
