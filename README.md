@@ -19,9 +19,6 @@ An interactive **Streamlit** web application that helps job seekers analyze thei
 
 A sleek, modern UI with dark purple gradients and creative design built using Streamlit.
 
-![Screenshot Placeholder](https://via.placeholder.com/800x400.png?text=AI+Resume+Analyzer+GUI)
-
-
 🧠 Tech Stack
 
 - **Frontend**: Streamlit
